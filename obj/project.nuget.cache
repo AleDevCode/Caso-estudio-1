@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKmFuaexgvJwt2WjaBJTPEDZ0lNqN6Fvs+0QCLmZlKv2JYyyXbICX93gIf2SjxQJYrYnRBhM2FtAdW99+2UFkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleja\\Documents\\UNIVERSIDAD TECNOLÓGICA DE CANCÚN\\09 NOVENO CUATRIMESTRE\\MOVIL\\PROYECTOS\\CasoEstudio1\\CasoEstudio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
