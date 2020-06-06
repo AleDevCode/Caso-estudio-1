@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja\\Documents\\UNIVERSIDAD TECNOLÓGICA DE CANCÚN\\09 NOVENO CUATRIMESTRE\\MOVIL\\PROYECTOS\\CasoEstudio1\\CasoEstudio1.csproj": {}
+    "C:\\Users\\aleja\\Source\\Repos\\AleDevCode\\Caso-estudio-1\\CasoEstudio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja\\Documents\\UNIVERSIDAD TECNOLÓGICA DE CANCÚN\\09 NOVENO CUATRIMESTRE\\MOVIL\\PROYECTOS\\CasoEstudio1\\CasoEstudio1.csproj": {
+    "C:\\Users\\aleja\\Source\\Repos\\AleDevCode\\Caso-estudio-1\\CasoEstudio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\Documents\\UNIVERSIDAD TECNOLÓGICA DE CANCÚN\\09 NOVENO CUATRIMESTRE\\MOVIL\\PROYECTOS\\CasoEstudio1\\CasoEstudio1.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\Source\\Repos\\AleDevCode\\Caso-estudio-1\\CasoEstudio1.csproj",
         "projectName": "CasoEstudio1",
-        "projectPath": "C:\\Users\\aleja\\Documents\\UNIVERSIDAD TECNOLÓGICA DE CANCÚN\\09 NOVENO CUATRIMESTRE\\MOVIL\\PROYECTOS\\CasoEstudio1\\CasoEstudio1.csproj",
+        "projectPath": "C:\\Users\\aleja\\Source\\Repos\\AleDevCode\\Caso-estudio-1\\CasoEstudio1.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\Documents\\UNIVERSIDAD TECNOLÓGICA DE CANCÚN\\09 NOVENO CUATRIMESTRE\\MOVIL\\PROYECTOS\\CasoEstudio1\\obj\\",
+        "outputPath": "C:\\Users\\aleja\\Source\\Repos\\AleDevCode\\Caso-estudio-1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
