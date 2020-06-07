@@ -6,7 +6,7 @@ namespace CasoEstudio1
 {
     class Nitrogeno
     {
-        private string MetodoCongelacion { get; set; }
-        private uint TiempoExposicionNitrogeno { get; set; }
+        public string MetodoCongelacion { get; set; }
+        public uint TiempoExposicionNitrogeno { get; set; }
     }
 }

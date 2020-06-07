@@ -7,7 +7,7 @@ namespace CasoEstudio1
 {
     class Aire
     {
-        private ComposicionAire ComposicionAireCongelado { get; set; }
+        public ComposicionAire ComposicionAireCongelado { get; set; }
 
     }
 }

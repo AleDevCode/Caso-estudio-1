@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "irUtRSkkz2r+Vs18ZANiq/Q4eIsAi/9oplVEgczaLN7rkEJ016f6UD4/rCvteCn+/O4yl/vpfwvkIVdEFYyMOQ==",
+  "dgSpecHash": "uM2XjB/RbSstOgxcVChiAdq5u3kw1WZYGXjycl9ZIh7wuV9XiVl9TeCLWDaI8JnfIXJuXdB+LCEIPwemugxTng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\Source\\Repos\\AleDevCode\\Caso-estudio-1\\CasoEstudio1.csproj",
+  "projectFilePath": "C:\\www\\xamarin-workspace\\Caso-estudio-1\\CasoEstudio1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aleja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\luise\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

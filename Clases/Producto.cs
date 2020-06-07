@@ -5,35 +5,29 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    public enum PaisOrigenEnum
-    {
-        Argentina,
-        Belice,
-        Bolivia,
-        Brasil,
-        Canadá,
-        Chile,
-        Colombia,
-        Cuba,
-        Ecuador,
-        EstadosUnidos,
-        México,
-        Paraguay,
-        Perú,
-        Venezuela
 
-    }
+    public class Producto
 
-    class Producto
     {
         public Fecha FechaCaducidad { get; set; }
         public uint NumeroLote { get; set; }
         public Fecha FechaEnvasado { get; set; }
+        public enum PaisOrigen {
+            Argentina,
+            Belice,
+            Bolivia,
+            Brasil,
+            Canadá,
+            Chile,
+            Colombia,
+            Cuba,
+            Ecuador,
+            EstadosUnidos,
+            México,
+            Paraguay,
+            Perú,
+            Venezuela
 
-        // Enum de países
-       
-        public PaisOrigenEnum PaisOrigen { get; set; }
-    
- 
+        }
     }
 }
