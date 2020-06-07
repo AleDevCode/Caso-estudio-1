@@ -1,0 +1,13 @@
+C:\www\xamarin-workspace\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.exe
+C:\www\xamarin-workspace\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.deps.json
+C:\www\xamarin-workspace\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.runtimeconfig.json
+C:\www\xamarin-workspace\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.runtimeconfig.dev.json
+C:\www\xamarin-workspace\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.dll
+C:\www\xamarin-workspace\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.pdb
+C:\www\xamarin-workspace\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.csprojAssemblyReference.cache
+C:\www\xamarin-workspace\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.AssemblyInfoInputs.cache
+C:\www\xamarin-workspace\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.AssemblyInfo.cs
+C:\www\xamarin-workspace\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.csproj.CoreCompileInputs.cache
+C:\www\xamarin-workspace\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.dll
+C:\www\xamarin-workspace\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.pdb
+C:\www\xamarin-workspace\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.genruntimeconfig.cache

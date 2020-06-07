@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CasoEstudio1.Clases;
+using System;
 using System.Collections.Generic;
 using System.Text;
 

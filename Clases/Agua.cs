@@ -6,9 +6,9 @@ namespace CasoEstudio1
 {
     class Agua: Congelado
     {
-        private float Salinidad { get; set; }
-        private float GramosSal { get; set; }
-        private float LitrosAgua { get; set; }
+        public float Salinidad { get; set; }
+        public float GramosSal { get; set; }
+        public float LitrosAgua { get; set; }
 
 
         public Agua(float gramosSal, float litrosAgua)
@@ -20,7 +20,7 @@ namespace CasoEstudio1
         }
 
 
-        public float CalcularSalinidad()
+        private float CalcularSalinidad()
         {
             return this.GramosSal / this.LitrosAgua;
         }

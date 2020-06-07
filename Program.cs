@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CasoEstudio1.Clases;
+using System;
 
 namespace CasoEstudio1
 {
@@ -6,7 +7,7 @@ namespace CasoEstudio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+   
         }
     }
 }

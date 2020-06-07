@@ -7,7 +7,7 @@ namespace CasoEstudio1
     class Refrigerado:Producto
     {
 
-        private string CodigoOrganismoSupervisionAlimentaria { get; set; }
-        private string TemperaturaMantoRecomendada { get; set; }
+        public string CodigoOrganismoSupervisionAlimentaria { get; set; }
+        public string TemperaturaMantoRecomendada { get; set; }
     }
 }

@@ -5,14 +5,14 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    class Producto
+    public class Producto
     {
-        private Fecha FechaCaducidad { get; set; }
-        private uint NumeroLote { get; set; }
-        private Fecha FechaEnvasado { get; set; }
+        public Fecha FechaCaducidad { get; set; }
+        public uint NumeroLote { get; set; }
+        public Fecha FechaEnvasado { get; set; }
 
         // Enum de países
-        private enum PaisOrigen {
+        public enum PaisOrigen {
             Argentina,
             Belice,
             Bolivia,

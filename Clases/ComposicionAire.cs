@@ -6,10 +6,10 @@ namespace CasoEstudio1.Clases
 {
     class ComposicionAire
     {
-        private float PorcentajeOxigeno { get; set; }
-        private float PorcentajeNitrogeno{ get; set; }
-        private float PorcentajeDioxidoCarbono { get; set; }
+        public float PorcentajeOxigeno { get; set; }
+        public float PorcentajeNitrogeno{ get; set; }
+        public float PorcentajeDioxidoCarbono { get; set; }
 
-        private float PorcentajeVaporAgua{ get; set; }
+        public float PorcentajeVaporAgua{ get; set; }
     }
 }
