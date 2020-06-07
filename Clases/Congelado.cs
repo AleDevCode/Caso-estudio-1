@@ -7,10 +7,21 @@ namespace CasoEstudio1
 {
     class Congelado: Producto
     {
-
-        public Congelado() :base()
+        public string TemperaturaMantoRecomendada { get; set; }
+        public Congelado(
+            Fecha fechaCaducidad, 
+            uint numeroLote, 
+            Fecha fechaEnvasado, 
+            PaisOrigenEnum paisOrigen, 
+            string tempMantoRecomendada)
+            :base(
+                 fechaCaducidad, 
+                 numeroLote, 
+                 fechaEnvasado, 
+                 paisOrigen)
         {
-            
+            this.TemperaturaMantoRecomendada = tempMantoRecomendada;
+
         }
     }
 }

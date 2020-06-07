@@ -9,7 +9,6 @@ namespace CasoEstudio1.Clases
         public float PorcentajeOxigeno { get; set; }
         public float PorcentajeNitrogeno{ get; set; }
         public float PorcentajeDioxidoCarbono { get; set; }
-
         public float PorcentajeVaporAgua{ get; set; }
     }
 }
