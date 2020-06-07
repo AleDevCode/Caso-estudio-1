@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    class Aire: Congelado
+    class Aire
     {
         private ComposicionAire ComposicionAireCongelado { get; set; }
 

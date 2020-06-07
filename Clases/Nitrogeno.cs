@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    class Nitrogeno: Congelado
+    class Nitrogeno
     {
         private string MetodoCongelacion { get; set; }
         private uint TiempoExposicionNitrogeno { get; set; }

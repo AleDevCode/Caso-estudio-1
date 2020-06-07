@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    class Refrigerado:Producto
+    class Refrigerado
     {
 
         private string CodigoOrganismoSupervisionAlimentaria { get; set; }

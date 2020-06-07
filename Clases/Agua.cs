@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    class Agua: Congelado
+    class Agua
     {
         private float Salinidad { get; set; }
         private float GramosSal { get; set; }

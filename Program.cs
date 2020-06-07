@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CasoEstudio1.Clases;
+using System;
 
 namespace CasoEstudio1
 {
@@ -7,6 +8,16 @@ namespace CasoEstudio1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Fecha caducidad = new Fecha();
+            caducidad.Anio = 2020;
+            caducidad.Mes = 10;
+            caducidad.Dia = 30;
+
+            Congelado c = new Congelado(caducidad, 052, caducidad);
+
+            Console.WriteLine(c.FechaCaducidad);
+            
         }
     }
 }

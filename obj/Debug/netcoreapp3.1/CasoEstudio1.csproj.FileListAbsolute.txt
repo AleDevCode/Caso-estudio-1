@@ -1,0 +1,13 @@
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.exe
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.deps.json
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.runtimeconfig.json
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.runtimeconfig.dev.json
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.dll
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\bin\Debug\netcoreapp3.1\CasoEstudio1.pdb
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.csprojAssemblyReference.cache
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.AssemblyInfoInputs.cache
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.AssemblyInfo.cs
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.dll
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.pdb
+C:\Users\aleja\Source\Repos\AleDevCode\Caso-estudio-1\obj\Debug\netcoreapp3.1\CasoEstudio1.genruntimeconfig.cache

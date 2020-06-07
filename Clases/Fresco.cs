@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CasoEstudio1
 {
-    class Fresco:Producto
+    class Fresco
     {
     }
 }
